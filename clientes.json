@@ -1,0 +1,23 @@
+[
+  {
+    "id": "001",
+    "nombre": "Luis Fernández",
+    "direccion": "Avenida Arequipa 890",
+    "celular": "99999999",
+    "tipo_cliente": "Premium"
+  },
+  {
+    "id": "002",
+    "nombre": "Gabriel Benavente",
+    "direccion": "Jr. Lima 123",
+    "celular": "988888888",
+    "tipo_cliente": "Normal"
+  },
+  {
+    "id": "003",
+    "nombre": "Javier Ramos",
+    "direccion": "Av. Brasil 567",
+    "celular": "977777777",
+    "tipo_cliente": "Premium"
+  }
+]
